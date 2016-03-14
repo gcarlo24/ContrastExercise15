@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+h1{
+  font-family: "Courgette";
+  font-size:40px;
+  text-align:center;
+  color: #254117;
+}
+
+#contact{
+  font-family: "Courgette";
+  font-size:16px;
+  text-align: center;
+  color:#254117;
+  padding:5px;
+}
+
+#div1{
+  background-color:#617C58;
+  width:98%;
+  float:center;
+  padding:10px;
+  margin:auto;
+}
+
+h2{
+  font-family:"Courgette";
+  font-size:25px;
+  color:#617C58;
+}
+
+body{
+  background-color: #BCC6CC;
+}
+
+#objective{
+  font-family:"PT Sans";
+  color:#254117;
+  float:left;
+  text-align:left;
+}
+
+#highlights{
+  font-family:"PT Sans";
+  color:#254117;
+  float:right;
+  text-align:left;
+}
+
+#skills{
+  font-family:"PT Sans";
+  color:#254117;
+  float:left;
+}
