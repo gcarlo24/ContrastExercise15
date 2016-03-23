@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+@import url(https://fonts.googleapis.com/css?family=Anton);
 
 .column {
   float:left;
@@ -11,37 +13,42 @@
 }
 
 h1 {
-  font-family: Oswald;
+  font-family: Anton;
   font-size:100px;
   text-align: center;
-  color:blueviolet;
+  color:#FFF2AB;
   margin-top:0px;
-  background-color:#C2DFFF;
+  background-color:;
   padding:10px;
   margin:20px;
 }
 
 h3 {
   font-family:Oswald;
-  font-size:16px;
-  color:#0000A0;
+  font-size:20px;
+  color:#D7F5A4;
 }
 
 h2 {
   font-family:Oswald;
+  font-weight:300;
+  font-size: 35px;
   text-align:center;
-  color:#0000A0;
+  color:#0F0034;
   margin-top:0px;
-  background-color:#C2DFFF;
+  background-color:;
   padding:10px;
   margin:20px;
 }
 
 h4 {
   font-family:Oswald;
-  color:#0000A0;
+  font-size:16px;
+  color:#0F0034;
 }
 
 body {
-  background-color:#BCC6CC;
+  font-family:Crimson Text;
+  background-color:#614B9A;
+  color:#DED1FF;
 }
